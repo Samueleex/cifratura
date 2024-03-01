@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cifrario di Cesare</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Cifrario di Cesare con lettere casuali</h1>
+  <label for="text">Testo:</label><br>
+  <textarea id="text" placeholder="Inserisci qui il testo"></textarea><br>
+  <button onclick="encrypt()">Cifra</button>
+  <button onclick="decrypt()">Decifra</button><br>
+  <label for="result">Risultato:</label><br>
+  <textarea id="result" readonly></textarea><br>
+  <label for="mapping">Mappatura Alfabeto:</label><br>
+  <textarea id="mapping" readonly></textarea>
+
+  <script src="script.js"></script>
+</body>
+</html>
