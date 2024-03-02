@@ -13,5 +13,5 @@ Discussione nel forum di informatica (spiegazione per tutti i releases):
 ![](https://i.imgur.com/cpxn13l.png)
 
 
-### Cifrario Matematico:
+### Cifrario Matematico (polinomiale):
 ![](https://i.imgur.com/mLq8mu9.png)
