@@ -1,5 +1,4 @@
-# Cifratura
-Cifrario di Cesare con lettere casuali. Vai nei releases per vedere altre tecniche più complesse.
+# Cifratura (vedi tutti i releases) 🗝️
 
 Discussione nel forum di informatica (spiegazione per tutti i releases):
 
@@ -9,9 +8,9 @@ Discussione nel forum di informatica (spiegazione per tutti i releases):
 ![](https://i.imgur.com/TRwylwa.png)
 
 
-### Cifrario polialfabetico
+### Cifrario polialfabetico:
 ![](https://i.imgur.com/cpxn13l.png)
 
 
-### Cifrario Matematico (polinomiale):
+### Cifrario Matematico (polinomiale): 
 ![](https://i.imgur.com/mLq8mu9.png)
