@@ -1,4 +1,4 @@
-// Questa è la cifratura di Cesare, per le altre tecniche vai sui releases!!!
+// Questa è la cifratura di Cesare con lettere casuali, per le altre tecniche vai sui releases!!!
 
 let normalAlphabet = 'abcdefghijklmnopqrstuvwxyz';
 let shuffledAlphabet = localStorage.getItem('shuffledAlphabet');
